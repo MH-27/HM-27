@@ -35,6 +35,7 @@ $$ python3 x-word.py
 
 
 # Contact
+If you encounter any problem or want to inquire about something, do not hesitate to contact me
 
 insta : instagram.com/al_ghonime
 
