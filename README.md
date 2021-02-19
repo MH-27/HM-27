@@ -1,2 +1,2 @@
-# HM-27
+# x-word
 word list 
