@@ -9,7 +9,7 @@ $$ cd x-word
 
 $$ chmod +=x x-word.py
 
-$$ python3 w-word.py
+#alo
 
 
 
