@@ -20,6 +20,8 @@ million passwords
 
 The tool can create a file or add to an existing file
 
+Only exe Word can open and create files within the tool's file
+
 # Setup for linux
 
 first you must install pip 
@@ -43,6 +45,10 @@ $$ chmod +x x-word
 $$ python3 x-word.py
 
 
+# Contact
 
+insta : instagram.com/al_ghonime
+
+email : alghonime_27@outlook.com
 
 
