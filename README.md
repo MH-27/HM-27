@@ -1,15 +1,7 @@
 # x-word
-creating a word list
 
-setup :
-
-$$ git clone https://github.com/MH-27/x-word.git
-
-$$ cd x-word
-
-$$ chmod +=x x-word.py
-
-#alo
+x-word use many modern algorithms to create the best word list  and after the tool is finished, 
+it checks the file and deletes similar words - it produces about a million and a half passwords
 
 
 
