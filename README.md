@@ -1,27 +1,16 @@
 # x-word
 
 x-word use many modern algorithms
-
 to create the best word list 
-
 and after the tool is finished, 
-
 it checks the file and deletes 
-
 similar words - it produces 
-
 about a million and a half passwords
-
 Enter the person's full name and
-
 date of birth and get around one
-
 million passwords
-
 The tool can create a file or add to an existing file
-
 Only exe Word can open and create files within the tool's file
-
 # Setup for linux
 
 first you must install pip 
