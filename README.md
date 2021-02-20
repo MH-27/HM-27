@@ -1,5 +1,5 @@
 
-![x-word.............](logo.PNG)
+![x-word.............](logo.png)
 
 # x-word
 x-word use many modern algorithms
