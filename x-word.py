@@ -82,6 +82,7 @@ while path == "" :
         pass
     else:
         print("")
+print("")
 print (colored("                            please wait          ","yellow"))
 print("")
 print(xxx(fn,mn,ln,age,path))
