@@ -17,17 +17,17 @@ first you must install pip
 
 if you aleardy install pip you can skip this step
 
-$$ apt-update
+$$ sudo apt-update
 
-$$ apt-get install python3 python3-pip
+$$ sudo apt-get install python3 python3-pip
 
 next :
 
-$$ git clone https://github.com/MH-27/x-word.git
+$$ sudo git clone https://github.com/MH-27/x-word.git
 
-$$ cd x-word
+$$ sudo cd x-word
 
-pip3 install -r  requirements.txt
+$$ sudo pip3 install -r  requirements.txt
 
 $$ chmod +x x-word
 
