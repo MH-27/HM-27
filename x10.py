@@ -48,4 +48,4 @@ def xxx(x,xx,xxx,xxxx,MH):
     print("")
     print("")
     from termcolor import colored
-    return (colored(f"      al-ghonime  make {len(x)} passwords in {MH}     ","red")) 
+    return (colored(f"      x-word  make {len(x)} passwords in {MH}     ","red")) 
