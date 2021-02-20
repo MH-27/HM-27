@@ -12,7 +12,7 @@ million passwords
 The tool can create a file or add to an existing file
 Only exe Word can open and create files within the tool's file
 # Setup for linux
-/home/kali/Pictures/Screenshot 2021-02-20 11:28:19.png
+
 first you must install pip 
 
 if you aleardy install pip you can skip this step
