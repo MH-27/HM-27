@@ -25,7 +25,7 @@ next :
 
 $$ sudo git clone https://github.com/MH-27/x-word.git
 
-$$ sudo cd x-word
+$$ cd x-word
 
 $$ sudo pip3 install -r  requirements.txt
 
