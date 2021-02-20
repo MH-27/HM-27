@@ -28,12 +28,7 @@ print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
 x = Figlet(font="standard")
 print (colored(x.renderText("          x - word  "),"blue"))
 print("")
-print("")
-print(colored("  by,","blue"))
-print(colored("     insta ====> https://www.instagram.com/al_ghonime","blue"))
-print(colored("     github ====> https://github.com/mh-27","blue"))
-print(colored("     email ====>    alghonime_27@outlook.com","blue"))
-print(colored("     -------------------------------------------------","blue"))
+
 print("\n\n")
 fn = input(colored("      type the first name ==>     ", "red")).strip()
 while fn == "" :
