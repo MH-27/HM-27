@@ -15,7 +15,7 @@ The tool can create a file or add to an existing file
 Only exe Word can open and create files within the tool's file
 # Setup for linux
 
-![x](xx.gif)
+
 
 first you must install pip 
 
@@ -37,6 +37,7 @@ $$ sudo chmod +x x-word
 
 $$ sudo python3 x-word.py
 
+![x](xx.gif)
 
 # Contact
 If you encounter any problem or want to inquire about something, do not hesitate to contact me
