@@ -15,7 +15,7 @@ The tool can create a file or add to an existing file
 Only exe Word can open and create files within the tool's file
 # Setup for linux
 
-![x-word](xx.mp4)
+![x](xx.mp4)
 
 first you must install pip 
 
