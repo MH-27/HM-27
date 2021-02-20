@@ -1,5 +1,5 @@
 # x-word
-
+![cupp-example](logo.png)
 x-word use many modern algorithms
 to create the best word list 
 and after the tool is finished, 
