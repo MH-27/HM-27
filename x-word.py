@@ -29,10 +29,7 @@ x = Figlet(font="standard")
 print (colored(x.renderText("          x - word  "),"blue"))
 print("")
 print("")
-print(colored("     insta ====> https://www.instagram.com/al_ghonime","graan"))
-print(colored("     github ====> https://github.com/HM-27","green"))
-print(colored("     email ====>    alghonime_27@outlook.com","green"))
-print(colored("     -------------------------------------------------","blue"))
+
 print("\n\n")
 fn = input(colored("      type the first name ==>     ", "red")).strip()
 while fn == "" :
