@@ -29,9 +29,9 @@ $$ cd x-word
 
 $$ sudo pip3 install -r  requirements.txt
 
-$$ chmod +x x-word
+$$ sudo chmod +x x-word
 
-$$ python3 x-word.py
+$$ sudo python3 x-word.py
 
 
 # Contact
