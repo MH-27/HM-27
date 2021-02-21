@@ -29,8 +29,15 @@ def clear(file):
     open1.close()
     creator.close()
     open2.close()
-    os.remove(file)
-    os.rename("not_clear.txt",file)
+    openx = open("not_clear.txt")
+    x = openx.readlines()
+    num = len(x)-1
+    for i in x :
+        write = open(file,"a")
+        write.write(f"{x[num]}")
+        write.close()
+        num -= 1 
+    os.remove("not_clear")
     from termcolor import colored
     return (colored("      setup 2/18 is completed     ","red"))
 
