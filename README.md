@@ -2,17 +2,16 @@
 ![x-word](logo.png)
 
 # x-word
-x-word use many modern algorithms
-to create the best word list 
-and after the tool is finished, 
-it checks the file and deletes 
-similar words - it produces 
-about a million and a half passwords
-Enter the person's full name and
-date of birth and get around one
-million passwords
-The tool can create a file or add to an existing file
-Only exe Word can open and create files within the tool's file
+The word x uses many modern algorithms
+to create the best word list and after 
+completing the tool, it checks the file
+and deletes similar words - produces 
+about one and a half million passwords.
+Enter the person’s full name and date of
+birth and browse a million passwords. The 
+passes of the tool are peaceful reasons for
+testing the password. Responsible here for 
+any bad use of the tool
 # Setup for linux
 
 
