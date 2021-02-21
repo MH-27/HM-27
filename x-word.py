@@ -64,16 +64,7 @@ while len(age) != 8 :
     else:
         print("")
 path  = input(colored("      enter the file name to save passwords      ==>     ","red")).strip()
-er = "/"
-while er in  path :
-    print("")
-    print(colored("     #   you must type a file name with out the path ex: xx.txt  #    ","green"))
-    print("")
-    path  = input(colored("      enter the file name to save passwords      ==>     ","red")).strip()
-    if er in path :
-        pass
-    else:
-        print("")
+
 while path == "" :
     print(colored("              #    you must type the file name  #     ","green"))
     print("")
