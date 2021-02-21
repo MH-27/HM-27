@@ -43,7 +43,7 @@ $$ sudo pip3 install -r  requirements.txt
 
 $$ sudo chmod +x x-word.py
 
-$$ sudo python3 x-word.py
+$$ python3 x-word.py
 
 ![x](xx.gif)
 
