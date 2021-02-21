@@ -75,4 +75,12 @@ def xxx(x,xx,xxx,xxxx,MH):
     print("")
     print("")
     from termcolor import colored
-    return (colored(f"      x-word  make {len(x)} passwords in {MH}     ","red")) 
+    print (colored(f"      x-word  make {len(x)} passwords in {MH}     ","red"))
+    print("")
+    print("")
+    print (colored(f" git hub ==> www.github.com/MH-27 ","red"))
+    print (colored(f" insta   ==> www.instagram.com/al_ghonime     ","red"))
+    return (colored(f" email   ==> alghonime_27@outlook.com     ","red")) 
+    print("")
+    print("")
+    
