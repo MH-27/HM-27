@@ -2,15 +2,24 @@
 ![x-word](logo.png)
 
 # x-word
-The word x uses many modern algorithms
-to create the best word list and after 
-completing the tool, it checks the file
-and deletes similar words - produces 
-about one and a half million passwords.
-Enter the person’s full name and date of
-birth and browse a million passwords. The 
-passes of the tool are peaceful reasons for
-testing the password. Responsible here for 
+The word x uses 
+many modern algorithms
+to create the best
+word list and after 
+completing the tool,
+it checks the file
+and deletes similar 
+words - produces 
+about one and a half
+million passwords.
+Enter the person’s
+full name and date of
+birth and browse a 
+million passwords. The 
+passes of the tool 
+are peaceful reasons for
+testing the password. 
+Responsible here for 
 any bad use of the tool
 # Setup for linux
 
