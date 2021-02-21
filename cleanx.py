@@ -37,7 +37,7 @@ def cleanx(file):
         write.write(f"{x[num]}")
         write.close()
         num -= 1 
-    os.remove("not_clear")
+    os.remove("not_clear.txt")
     from termcolor import colored
     return (colored("      setup 6/18 is completed     ","red"))
 
