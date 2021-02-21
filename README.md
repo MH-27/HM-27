@@ -29,7 +29,7 @@ first you must install pip
 
 if you aleardy install pip you can skip this step
 
-$$ sudo apt-update
+$$ sudo apt update
 
 $$ sudo apt-get install python3 python3-pip
 
