@@ -41,7 +41,7 @@ $$ cd x-word
 
 $$ sudo pip3 install -r  requirements.txt
 
-$$ sudo chmod +x x-word
+$$ sudo chmod +x x-word.py
 
 $$ sudo python3 x-word.py
 
