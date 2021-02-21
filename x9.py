@@ -132,7 +132,15 @@ def x9(age,path):
     os.remove("FH.txt")
     os.remove("MH.txt")
     os.remove("LH.txt")
-    os.rename("x1.txt",path)
+    openx = open("x1.txt")
+    x = openx.readlines()
+    num = len(x)-1
+    for i in x :
+        write = open(path,"a")
+        write.write(f"{x[num]}")
+        write.close()
+        num -= 1 
+    os.remove("x1.txt")
     from termcolor import colored
     return (colored("      setup 16/18 is completed     ","red"))
 
